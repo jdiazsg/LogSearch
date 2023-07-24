@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogSearch", "LogSearch\LogSearch.csproj", "{FC26ECA2-ADFF-4F92-AB8B-E4D1494FD197}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogSearch.Tests", "LogSearch.Tests\LogSearch.Tests.csproj", "{3DC1A96D-BAB1-43E7-8422-6104B86DB651}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC26ECA2-ADFF-4F92-AB8B-E4D1494FD197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC26ECA2-ADFF-4F92-AB8B-E4D1494FD197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC26ECA2-ADFF-4F92-AB8B-E4D1494FD197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC26ECA2-ADFF-4F92-AB8B-E4D1494FD197}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DC1A96D-BAB1-43E7-8422-6104B86DB651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DC1A96D-BAB1-43E7-8422-6104B86DB651}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DC1A96D-BAB1-43E7-8422-6104B86DB651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DC1A96D-BAB1-43E7-8422-6104B86DB651}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
